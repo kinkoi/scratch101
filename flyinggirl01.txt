@@ -1,0 +1,9 @@
+Requirement:
+Make a flying girl. See the following link for effect:
+https://www.youtube.com/watch?v=XjMYBHjGVM0
+
+Input:
+arrow up - move the girl up
+arrow down - move the girl down
+
+
